@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-123456789
+中文
 
 A data-driven personal website
 ======
