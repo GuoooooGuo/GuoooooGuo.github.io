@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "厉害"
 permalink: /publications/
 author_profile: true
 ---
